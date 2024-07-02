@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1 class="text-3xl text-center w-screen">Lightroast</h1>
+<p class="text-xl text-center text-underline w-screen">A toolkit for penetration testing through social engineering.</p>
